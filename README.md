@@ -10,4 +10,4 @@
 
 | Skill | Source | Certification |
 | ----- | ------ | ------------- |
-| Python | Kaggle | [Certificado](https://github.com/zyrusin/certifications/blob/main/Kaggle/Rafael%20Reyes%20Hernandez%20-%20Python.png) |
+| Python | Kaggle | ![Certificado](https://github.com/zyrusin/certifications/blob/main/Kaggle/Rafael%20Reyes%20Hernandez%20-%20Python.png) |
