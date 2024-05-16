@@ -9,4 +9,5 @@
 ![Programa2](https://github.com/zyrusin/certifications/blob/main/JPG/Programa%20de%20Formacion%20Data%20Scientist_page-0002.jpg)
 
 | Skill | Source | Certification |
+| ----- | ------ | ------------- |
 | Python | Kaggle | ![CertificadoPython](https://github.com/zyrusin/certifications/blob/main/Kaggle/Rafael%20Reyes%20Hernandez%20-%20Python.png) |
